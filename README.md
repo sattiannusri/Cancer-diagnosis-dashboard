@@ -1,4 +1,4 @@
-# Cancer-diagnosis-dashboard
+# Cancer Dashboard
 
 ![Cancer dashboard](https://github.com/sattiannusri/Cancer-diagnosis-dashboard/assets/63795809/59919474-a287-4bf6-8005-b29d2631a9bf)
 
